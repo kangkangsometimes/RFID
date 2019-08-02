@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UHFReader", "UHFReader.vcproj", "{06DE4991-CC7D-481A-8ABD-F9C3118D3540}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RFID_StandardProtocol", "..\RFID_StandardProtocol\RFID_StandardProtocol.vcproj", "{A920C2D5-E31C-4547-A5B7-97A104F34AC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06DE4991-CC7D-481A-8ABD-F9C3118D3540}.Debug|Win32.ActiveCfg = Debug|Win32
+		{06DE4991-CC7D-481A-8ABD-F9C3118D3540}.Debug|Win32.Build.0 = Debug|Win32
+		{06DE4991-CC7D-481A-8ABD-F9C3118D3540}.Release|Win32.ActiveCfg = Release|Win32
+		{06DE4991-CC7D-481A-8ABD-F9C3118D3540}.Release|Win32.Build.0 = Release|Win32
+		{A920C2D5-E31C-4547-A5B7-97A104F34AC4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A920C2D5-E31C-4547-A5B7-97A104F34AC4}.Debug|Win32.Build.0 = Debug|Win32
+		{A920C2D5-E31C-4547-A5B7-97A104F34AC4}.Release|Win32.ActiveCfg = Release|Win32
+		{A920C2D5-E31C-4547-A5B7-97A104F34AC4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

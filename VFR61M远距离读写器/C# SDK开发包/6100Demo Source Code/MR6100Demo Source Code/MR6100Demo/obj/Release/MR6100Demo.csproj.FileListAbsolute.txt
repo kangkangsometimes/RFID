@@ -1,0 +1,17 @@
+C:\Documents and Settings\Administrator\桌面\915MAPI\900MC#\MR6100Demo\MR6100Demo\bin\Release\MR6100Demo.exe
+C:\Documents and Settings\Administrator\桌面\915MAPI\900MC#\MR6100Demo\MR6100Demo\bin\Release\MR6100Demo.pdb
+C:\Documents and Settings\Administrator\桌面\915MAPI\900MC#\MR6100Demo\MR6100Demo\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\915MAPI\900MC#\MR6100Demo\MR6100Demo\obj\Release\MR6100Demo.mainForm.resources
+C:\Documents and Settings\Administrator\桌面\915MAPI\900MC#\MR6100Demo\MR6100Demo\obj\Release\MR6100Demo.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\915MAPI\900MC#\MR6100Demo\MR6100Demo\obj\Release\MR6100Demo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\915MAPI\900MC#\MR6100Demo\MR6100Demo\obj\Release\MR6100Demo.exe
+C:\Documents and Settings\Administrator\桌面\915MAPI\900MC#\MR6100Demo\MR6100Demo\obj\Release\MR6100Demo.pdb
+C:\Documents and Settings\Administrator\桌面\915MAPI\900MC#\MR6100Demo(客户版)\MR6100Demo\obj\Release\MR6100Demo.exe
+C:\Documents and Settings\Administrator\桌面\915MAPI\900MC#\MR6100Demo(客户版)\MR6100Demo\obj\Release\MR6100Demo.pdb
+C:\Documents and Settings\Administrator\桌面\915MAPI\900MC#\MR6100Demo(客户版)\MR6100Demo\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\915MAPI\900MC#\MR6100Demo(客户版)\MR6100Demo\obj\Release\MR6100Demo.mainForm.resources
+C:\Documents and Settings\Administrator\桌面\915MAPI\900MC#\MR6100Demo(客户版)\MR6100Demo\obj\Release\MR6100Demo.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\915MAPI\900MC#\MR6100Demo(客户版)\MR6100Demo\obj\Release\MR6100Demo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\915MAPI\900MC#\MR6100Demo(客户版)\MR6100Demo\bin\Release\MR6100Demo.exe
+C:\Documents and Settings\Administrator\桌面\915MAPI\900MC#\MR6100Demo(客户版)\MR6100Demo\bin\Release\MR6100Demo.pdb
+C:\Documents and Settings\Administrator\桌面\915MAPI\900MC#\MR6100Demo(客户版)\MR6100Demo\bin\Release\MR6100Api.pdb
